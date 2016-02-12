@@ -7,6 +7,7 @@ var DinnerModel = function() {
 
 	this.setNumberOfGuests = function(num) {
 		//TODO Lab 2
+		nrOfGuests = num;
 	}
 
 	// should return 
